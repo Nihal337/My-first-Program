@@ -5,7 +5,8 @@ using namespace std ;
 //Hello World
 int main() {
 
-cout<<"Hello World"<<endl ;
+cout<<"Hello Nihal Tiwari"<<endl ;
+cout<<"How are You ?"<<endl ;
 
 
 }
